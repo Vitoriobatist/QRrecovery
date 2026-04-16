@@ -1,0 +1,15 @@
+# Build
+bin/
+obj/
+
+# Arquivos compilados
+*.dll
+*.exe
+
+# Visual Studio / .NET
+.vs/
+*.user
+*.suo
+
+# Outros
+*.log
